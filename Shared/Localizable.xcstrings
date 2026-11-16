@@ -1,0 +1,1018 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@ failed (status %04X)": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ a eșuat (cod %2$04X)"
+          }
+        }
+      }
+    },
+    "%@ must be %lu digits": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ trebuie să aibă %2$lu cifre"
+          }
+        }
+      }
+    },
+    "%@ must be %lu–%lu digits": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ trebuie să aibă între %2$lu și %3$lu cifre"
+          }
+        }
+      }
+    },
+    "%lld tries remaining": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld try remaining"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld tries remaining"
+                }
+              }
+            }
+          }
+        },
+        "ro": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld încercare rămasă"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld încercări rămase"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld de încercări rămase"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Authentication certificate": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certificat de autentificare"
+          }
+        }
+      }
+    },
+    "Authentication certificate is corrupted": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certificatul de autentificare este corupt"
+          }
+        }
+      }
+    },
+    "Available to macOS": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disponibil în macOS"
+          }
+        }
+      }
+    },
+    "Bad signature from card": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cardul a returnat o semnătură invalidă"
+          }
+        }
+      }
+    },
+    "Card": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Card"
+          }
+        }
+      }
+    },
+    "Card communication failed": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comunicarea cu cardul a eșuat"
+          }
+        }
+      }
+    },
+    "Card holder": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titular"
+          }
+        }
+      }
+    },
+    "Card not available": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cardul nu este disponibil"
+          }
+        }
+      }
+    },
+    "Card read failed": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Citirea cardului a eșuat"
+          }
+        }
+      }
+    },
+    "Certificate file is not DER": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certificatul de pe card este invalid"
+          }
+        }
+      }
+    },
+    "Certificates": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certificate"
+          }
+        }
+      }
+    },
+    "Change": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schimbă"
+          }
+        }
+      }
+    },
+    "Change PIN": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schimbare PIN"
+          }
+        }
+      }
+    },
+    "Citizenship": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cetățenie"
+          }
+        }
+      }
+    },
+    "Confirm new PIN": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Confirmați PIN-ul nou"
+          }
+        }
+      }
+    },
+    "Connect a smart card reader": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conectați un cititor de carduri"
+          }
+        }
+      }
+    },
+    "Credentials": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coduri de acces"
+          }
+        }
+      }
+    },
+    "Current PIN": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN-ul curent"
+          }
+        }
+      }
+    },
+    "Date of birth": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data nașterii"
+          }
+        }
+      }
+    },
+    "Document number": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seria și numărul"
+          }
+        }
+      }
+    },
+    "Domicile": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Domiciliu"
+          }
+        }
+      }
+    },
+    "Empty digest": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nu există date de semnat"
+          }
+        }
+      }
+    },
+    "Enter your current PIN carefully. Each wrong attempt uses one try; after the last one the PIN is blocked and has to be unblocked with the PUK.": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Introduceți cu atenție PIN-ul curent. Fiecare introducere greșită consumă o încercare; după ultima, PIN-ul se blochează și poate fi deblocat doar cu PUK-ul."
+          }
+        }
+      }
+    },
+    "Expires": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data expirării"
+          }
+        }
+      }
+    },
+    "Export…": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exportă…"
+          }
+        }
+      }
+    },
+    "First name": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prenume"
+          }
+        }
+      }
+    },
+    "Hide": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ascunde"
+          }
+        }
+      }
+    },
+    "Insert your identity card": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Introduceți cartea de identitate"
+          }
+        }
+      }
+    },
+    "Issued": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Data eliberării"
+          }
+        }
+      }
+    },
+    "Issued by": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eliberat de"
+          }
+        }
+      }
+    },
+    "Issuer": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Emitent"
+          }
+        }
+      }
+    },
+    "Label": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etichetă"
+          }
+        }
+      }
+    },
+    "Last name": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nume"
+          }
+        }
+      }
+    },
+    "Malformed TokenInfo": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cardul conține informații invalide"
+          }
+        }
+      }
+    },
+    "Manufacturer": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Producător"
+          }
+        }
+      }
+    },
+    "Model": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Model"
+          }
+        }
+      }
+    },
+    "New PIN (%lld digits)": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN-ul nou (%lld cifre)"
+          }
+        }
+      }
+    },
+    "New PIN (%lld–%lld digits)": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN-ul nou (%1$lld–%2$lld cifre)"
+          }
+        }
+      }
+    },
+    "No PIN entered": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nu a fost introdus niciun PIN"
+          }
+        }
+      }
+    },
+    "No card in the reader": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nu există niciun card în cititor"
+          }
+        }
+      }
+    },
+    "Not a Romanian eID card": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nu este o carte electronică de identitate românească"
+          }
+        }
+      }
+    },
+    "PIN": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN"
+          }
+        }
+      }
+    },
+    "PIN (4 digits)": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN (4 cifre)"
+          }
+        }
+      }
+    },
+    "PIN (authentication, personal data)": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN (autentificare, date personale)"
+          }
+        }
+      }
+    },
+    "PIN changed.": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN-ul a fost schimbat."
+          }
+        }
+      }
+    },
+    "PIN has the wrong length or contains non-digits": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN-ul are o lungime greșită sau conține alte caractere decât cifre"
+          }
+        }
+      }
+    },
+    "PIN is blocked": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN-ul este blocat"
+          }
+        }
+      }
+    },
+    "PIN required": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este necesar PIN-ul"
+          }
+        }
+      }
+    },
+    "PUK": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PUK"
+          }
+        }
+      }
+    },
+    "Personal data": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date personale"
+          }
+        }
+      }
+    },
+    "Personal numeric code (CNP)": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cod numeric personal (CNP)"
+          }
+        }
+      }
+    },
+    "Place of birth": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Locul nașterii"
+          }
+        }
+      }
+    },
+    "Protected by": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Protejat de"
+          }
+        }
+      }
+    },
+    "RO CEI Connector": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RO CEI Connector"
+          }
+        }
+      }
+    },
+    "RO eID Authentication": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CEI RO Autentificare"
+          }
+        }
+      }
+    },
+    "RO eID Signature": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CEI RO Semnătură"
+          }
+        }
+      }
+    },
+    "Read": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Citește"
+          }
+        }
+      }
+    },
+    "Reader": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cititor"
+          }
+        }
+      }
+    },
+    "Reading card…": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se citește cardul…"
+          }
+        }
+      }
+    },
+    "Reading the personal data requires your 4-digit PIN.": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pentru citirea datelor personale este necesar PIN-ul de 4 cifre."
+          }
+        }
+      }
+    },
+    "Refresh": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reîmprospătează"
+          }
+        }
+      }
+    },
+    "Remaining tries": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Încercări rămase"
+          }
+        }
+      }
+    },
+    "Residence abroad": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reședință în străinătate"
+          }
+        }
+      }
+    },
+    "SHA-256": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SHA-256"
+          }
+        }
+      }
+    },
+    "Security device": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dispozitiv de securitate"
+          }
+        }
+      }
+    },
+    "Serial number": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Număr de serie"
+          }
+        }
+      }
+    },
+    "Sex": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sex"
+          }
+        }
+      }
+    },
+    "Signature": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Semnătura"
+          }
+        }
+      }
+    },
+    "Signature PIN": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN de semnare"
+          }
+        }
+      }
+    },
+    "Signature PIN (6 digits)": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN de semnare (6 cifre)"
+          }
+        }
+      }
+    },
+    "Signature PUK": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PUK de semnare"
+          }
+        }
+      }
+    },
+    "Signature certificate": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certificat de semnătură"
+          }
+        }
+      }
+    },
+    "Smart card access is not available to this app.": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aplicația nu are acces la cititoarele de carduri."
+          }
+        }
+      }
+    },
+    "Subject": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Titular"
+          }
+        }
+      }
+    },
+    "Temporary residence": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reședință"
+          }
+        }
+      }
+    },
+    "The card in the reader could not be read.": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cardul din cititor nu a putut fi citit."
+          }
+        }
+      }
+    },
+    "The new PINs don't match.": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PIN-urile noi nu coincid."
+          }
+        }
+      }
+    },
+    "This is not a Romanian electronic identity card.": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acesta nu este o carte electronică de identitate românească."
+          }
+        }
+      }
+    },
+    "TokenInfo has no serial number": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cardul nu are număr de serie"
+          }
+        }
+      }
+    },
+    "Unexpected constraint": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Constrângere neașteptată"
+          }
+        }
+      }
+    },
+    "Unexpected signature length": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cardul a returnat o semnătură de lungime neașteptată"
+          }
+        }
+      }
+    },
+    "Unsupported algorithm": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Algoritm neacceptat"
+          }
+        }
+      }
+    },
+    "Valid from": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valabil de la"
+          }
+        }
+      }
+    },
+    "Valid until": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Valabil până la"
+          }
+        }
+      }
+    },
+    "Waiting for the system…": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se așteaptă sistemul…"
+          }
+        }
+      }
+    },
+    "Wrong PIN (%ld tries left)": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Wrong PIN (%ld try left)"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Wrong PIN (%ld tries left)"
+                }
+              }
+            }
+          }
+        },
+        "ro": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "PIN greșit (mai rămâne %ld încercare)"
+                }
+              },
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "PIN greșit (mai rămân %ld încercări)"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "PIN greșit (mai rămân %ld de încercări)"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Yes — usable in Safari and other apps": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Da — poate fi folosit în Safari și în alte aplicații"
+          }
+        }
+      }
+    },
+    "blocked": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "blocat"
+          }
+        }
+      }
+    },
+    "unknown": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "necunoscut"
+          }
+        }
+      }
+    },
+    "verified — currently unlocked": {
+      "localizations": {
+        "ro": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "verificat — deblocat în acest moment"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
